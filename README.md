@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @f1shyfang
+- 👋 Hi, I’m Michael
 - 👀 I’m interested in aws/cloud
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking to collaborate on anything 😘
