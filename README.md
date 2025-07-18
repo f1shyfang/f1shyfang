@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Michael
 - 👀 I’m interested in aws/cloud
 - 🌱 I’m currently learning next.js
-- 💞️ I’m looking to collaborate on anything 😘
+- 💞️ I’m looking for a cofounder😘
 - 📫 How to reach me ...
 - 😄 Pronouns: He/him
 
