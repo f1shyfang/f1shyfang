@@ -1,5 +1,9 @@
-- 👋 Hi, I’m Michael
-- 👀 I’m interested in aws/cloud
+
+###Hi there👋
+
+My name is Michael,and I'm an UNSW engineering student interested in Full stack and system architecture.
+
+- 👀 I’m interested in certs for aws/cloud
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking for a cofounder😘
 - 📫 How to reach me ...
