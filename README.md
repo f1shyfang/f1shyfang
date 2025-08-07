@@ -7,7 +7,7 @@ My name is Michael,and I'm an UNSW engineering student interested in Full stack 
 
 ✨ About Me
 - 🌍 Based in Sydney, Australia  
-- 👀 I’m interested in certs for aws/cloud
+- 👀 I’m interested in certs for aws/cloud and solana projects.
 - 🌱 I’m currently learning next.js
 - 💞️ I’m looking for a cofounder😘
 
