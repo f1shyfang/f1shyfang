@@ -1,7 +1,7 @@
 
 ### Hi there👋
 ---
-My name is Michael,and I'm an UNSW engineering student interested in Full stack and system architecture.
+My name is Michael,and I'm an UNSW Computer Science and Stats student interested in data analytics.
 
 
 
