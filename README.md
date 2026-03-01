@@ -1,7 +1,7 @@
 
 ### Hi there👋
 ---
-My name is Michael,and I'm an UNSW Computer Science and Stats student interested in data analytics.
+My name is Michael,and I'm an UNSW Computer Science student interested in data analytics.
 
 
 
