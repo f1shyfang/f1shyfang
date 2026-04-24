@@ -9,7 +9,7 @@ My name is Michael,and I'm an UNSW Computer Science student interested in data a
 - 🌍 Based in Sydney, Australia  
 - 👀 I’m interested in certs for aws/cloud and solana projects.
 - 🌱 I’m currently learning next.js
-- 💞️ I’m looking for a cofounder
+- 💞️ I’m looking for interesting projects
 
 
 
